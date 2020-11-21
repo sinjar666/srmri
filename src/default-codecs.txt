@@ -1,0 +1,3 @@
+active: 8: audio PCMA clock:8000 channels:0
+active: 98: video H263-1998 clock:90000 channels:0
+
